@@ -1,9 +1,3 @@
-/**
- * @author IRUMVA HABUMUGISHA Anselme
- * This is the implementation of the DeQue using a Linked List
- * */
-
-
 #include <iostream>
 using namespace std;
 

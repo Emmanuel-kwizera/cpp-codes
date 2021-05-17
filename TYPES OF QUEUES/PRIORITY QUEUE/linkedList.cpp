@@ -1,9 +1,3 @@
-/**
- * @author IRUMVA HABUMUGISHA Anselme
- * This is the implementation of the PriorityQue using a Linked list
- * */
-
-
 #include <iostream>
 using namespace std;
 
